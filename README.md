@@ -39,7 +39,7 @@
 
 ---
 
-#@ 🧩문제
+## 🧩문제
 
 ### Caching
 
@@ -116,7 +116,7 @@
 
 ---
 
-# 🏔️추가 과제
+## 🏔️추가 과제
 
 - SQLAlchemy Core 를 이용한 Query 성능 향상
 - Pandas Dataframe의 Vectorization을 이용하여 속도 향상 (Python for loop를 사용하지 않기)
